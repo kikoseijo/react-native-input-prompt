@@ -1,7 +1,7 @@
 // @flow
 import * as React from 'react';
 import { View, Text, Button, TextInput, Dimensions, Modal, TouchableOpacity } from 'react-native';
-import styles from './Prompt.style';
+import styles from './styles';
 
 type Props = {
 	title: string,
